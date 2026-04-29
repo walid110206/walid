@@ -7,4 +7,8 @@ Le Brevet de Technicien Supérieur aux Services Informatiques aux Organisations 
 # 🌐 | Option SISR
 L'option Solution d'infrastructure, systèmes et réseaux forme des professionnels des réseaux et équipements informatiques (installation, maintenance, sécurité). En sortant d'un BTS SIO SISR, vous serez capables de gérer et d'administrer le réseau d'une société et d'assurer sa sécurité et sa maintenance.
 
+# 💻 | Option SLAM
+L'option Solutions logicielles et applications métiers forme des spécialistes des logiciels (rédaction d'un cahier des charges, formulation des besoins et spécifications, développement, intégration au sein de la société).
+
+
 
